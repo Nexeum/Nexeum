@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://github.com.com/Nexeum/Nexeum/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+(https://github.com/{{Nexeum}}/{{Nexeum}}/blob/output/github-contribution-grid-snake.svg)
 ###
