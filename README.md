@@ -1,4 +1,6 @@
-<h3 align="center">Hi 👋, I'm Andres</h3>
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Andres;Software+Developer+(Elixir+%26+Java+))](https://git.io/typing-svg)
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <p>
