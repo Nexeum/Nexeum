@@ -45,7 +45,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexeum&layout=compact&theme=discord-old-blurple" alt=Nexeum />
+  <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nexeum&layout=compact&theme=discord-old-blurple" alt=Nexeum />
   <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nexeum&&show_icons=true&theme=discord-old-blurple" alt="Nexeum" />
 </div>
 
