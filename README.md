@@ -17,10 +17,31 @@
   </a>
 </p>
 
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexeum&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```elixir
+defmodule Nexeum do
+  @pronouns ["He", "Him"]
+  @code ["Elixir", "Java", "Flutter", "React", "Angular"]
+  @ask_me_about ["tech", "app dev", "web dev", "frontend", "backend"]
+  @technologies %{
+    back_end: %{
+      java: ["Spring Boot", "RabbitMQ", "Circuit Breaker"],
+      elixir: ["Phoenix", "Ash"],
+    },
+    mobile_app: %{
+      native: ["Android Development", "iOS Development"],
+      cross_platform: ["Flutter", "React Native"]
+    },
+    front_end: %{
+      js_frameworks: ["React", "Angular"],
+    },
+    devops: ["AWS", "Docker", "Kubernetes"],
+    databases: ["MongoDB", "Redis", "Scylladb"]
+  }
+  @architecture ["Clean Architecture", "Microservices", "Serverless", "Reactive Systems"]
+end
+```
 
 
 <br>
