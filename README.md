@@ -24,10 +24,6 @@
 
 <br>
 
-<h2 align="left" id="nexeum-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
