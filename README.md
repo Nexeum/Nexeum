@@ -7,7 +7,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Nexeum/Nexeum">
     <img src="https://komarev.com/ghpvc/?username=nexeum" alt="page views" />
   </a>
@@ -17,9 +17,10 @@
   </a>
 </p>
 
-<a href="#nexeum-title">
-  <img src="https://raw.githubusercontent.com/nexeum/github-stats-transparent/output/generated/overview.svg" alt="Nexeum" align="center" />
-</a>
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexeum&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+</div>
 
 
 <br>
