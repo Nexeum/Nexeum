@@ -6,52 +6,94 @@
   </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/jahp" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jahp" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/8sAcK39e" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="8sAcK39e" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/14249732" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="14249732" height="30" width="40" />
-    </a>
-    <a href="https://codeforces.com/profile/Nexeum" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Nexeum" height="30" width="40" />
-    </a>
-  </p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/elixir-lang-icon.svg" alt="Elixir" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/erlang-official.svg" alt="Erlang" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/rabbitmq-icon.svg" alt="rabbitMq" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nexeum&layout=compact&theme=discord-old-blurple" alt=Nexeum />
-  <img align="center" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nexeum&&show_icons=true&theme=discord-old-blurple" alt="Nexeum" />
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-  <a href="https://github.com/Nexeum">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nexeum&theme=discord_old_blurple" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nexeum&theme=discord_old_blurple" height="180em" />
-</div>
+<p align="left">
+  <a href="https://github.com/Nexeum/Nexeum">
+    <img src="https://komarev.com/ghpvc/?username=nexeum" alt="page views" />
+  </a>
+
+  <a href="https://github.com/Nexeum?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nexeum?style=flat&logo=github">
+  </a>
+</p>
+
+<a href="#nexeum-title">
+  <img src="https://raw.githubusercontent.com/nexeum/github-stats-transparent/output/generated/overview.svg" alt="Nexeum" align="center" />
+</a>
+
+
+<br>
+
+<h2 align="left" id="nexeum-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#nexeum-tech">
+        <img src="https://icon.icepanel.io/Technology/svg/Elixir.svg" width="48" height="48" alt="Elixir" />
+      </a>
+      <br>Elixir
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech">
+        <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech">
+        <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech">
+        <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech" >
+        <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#nexeum-tech" >
+        <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#nexeum-tech">
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech" >
+        <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech" >
+        <img src="https://icon.icepanel.io/Technology/svg/Erlang.svg" width="48" height="48" alt="Erlang" />
+      </a>
+      <br>Erlang
+    </td>
+    <td align="center" width="96">
+      <a href="#nexeum-tech" >
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+
+
+
+
